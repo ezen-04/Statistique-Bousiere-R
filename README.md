@@ -26,9 +26,8 @@ sub("^\\^", "", ...)
 
 Afin de corriger les effets liés aux différences de calendriers boursiers (jours fériés, fermetures locales), les rendements logarithmiques sont calculés :
 
-[
-r_t = \ln\left(\frac{p_t}{p_{t-1}}\right)
-]
+
+$$ r_t = \ln\left(\frac{p_t}{p_{t-1}}\right) $$
 
 Dans le cadre de l’analyse systémique (CoVaR), un alignement strict des séries est réalisé via :
 
@@ -51,9 +50,7 @@ Cette dernière permet de capturer les asymétries et les queues épaisses obser
 
 La CoVaR est estimée à partir d’une régression quantile implémentée via le package `quantreg`, au niveau de confiance :
 
-[
-\alpha = 5%
-]
+$$ \alpha = 5% $$
 
 ---
 
