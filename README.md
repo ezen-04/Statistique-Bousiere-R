@@ -135,4 +135,4 @@ Une couverture via des options de vente sur des indices européens (par exemple 
 
 ---
 
-NB: Veuillez noter que les analyses sur les marchés africains sont biaisées par le fait que les données disponibles soient insuffisantes. Mais, dans le cadre de cette étude, nous allons nous en contenter.
+**NB:** Veuillez noter que les analyses sur les marchés africains sont biaisées par le fait que les données disponibles soient insuffisantes. Mais, dans le cadre de cette étude, nous allons nous en contenter.
